@@ -104,6 +104,7 @@ while ch==4:
     tot=0
     pro=0
     for i in d2:
+        
         mid=i
         print(mid)
         q=d2[i][0]
