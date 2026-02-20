@@ -65,3 +65,5 @@ The **Medical Shop Management System** is a Python-based application that helps 
 The **Medical Shop Management System** automates the process of managing medicines, sales, and customer records. By integrating SQL Server, the system ensures efficient data management, making it a valuable tool for medical stores.
 
 //Git working flow check
+
+// this changes is done in the v2 branch
